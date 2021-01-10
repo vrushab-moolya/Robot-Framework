@@ -3,7 +3,7 @@ Resource  ../Operational/instructions.robot
 Resource  ../Operational/variables.robot
 
 *** Test Cases ***
-User should be navigated to book page
+User should be able to add book to cart
     [Tags]    demo
     Open indian book store 
     Clicking on Actions & Adventures 
